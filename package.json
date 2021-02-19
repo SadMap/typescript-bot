@@ -1,0 +1,22 @@
+{
+  "name": "typescript-bot",
+  "version": "1.0.0",
+  "description": "typescript-bot",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SadMap/typescript-bot.git"
+  },
+  "keywords": [
+    "ts"
+  ],
+  "author": "SadMap",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/SadMap/typescript-bot/issues"
+  },
+  "homepage": "https://github.com/SadMap/typescript-bot#readme"
+}
