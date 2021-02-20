@@ -1,2 +1,13 @@
 - name: TSLint checks
+  # You may pin to the exact commit or the version.
+  # uses: mooyoul/tslint-actions@bb86bb5a3b355c1a6762e1a05949aace76e14ec5
   uses: mooyoul/tslint-actions@v1.1.1
+  with:
+    # Github Token
+    token: 
+    # Path of TypeScript Project file
+    project: # optional
+    # Path of TSLint configuration
+    config: # optional, default is tslint.json
+    # Glob pattern to match
+    pattern: # optional
