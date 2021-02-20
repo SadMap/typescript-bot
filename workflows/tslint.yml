@@ -1,0 +1,2 @@
+- name: TSLint checks
+  uses: mooyoul/tslint-actions@v1.1.1
